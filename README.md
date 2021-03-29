@@ -2,6 +2,7 @@
 List of tools that I require in order to keep my sanity
 
 * https://github.com/microsoft/PowerToys - Keyboard Remapping and more
+* https://github.com/Open-Shell/Open-Shell-Menu - A Windows 7 style start menu
 * Terminal related
   * https://github.com/Microsoft/Terminal - A terminal that's actually usable, unlike the default
   * https://github.com/gerardog/gsudo - Like `sudo` on unix
