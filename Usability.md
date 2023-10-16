@@ -63,3 +63,7 @@ Windows Registry Editor Version 5.00
 echo "# Shows navigable menu of all options when hitting Tab" >> $PROFILE.CurrentUserAllHosts
 echo "Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete" >> $PROFILE.CurrentUserAllHosts
 ```
+
+## Disable double quote insertion
+
+Time & Language -> Language & Region -> Choose Language -> Replace INTL layout with normal one
